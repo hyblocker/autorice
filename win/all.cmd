@@ -15,5 +15,9 @@ curl %URL_ROOT%/apps.cmd > cmd
 
 :: Configure apps I like using, using their individual config scripts
 :: TODO
+curl %URL_ROOT%/pdn.cmd > cmd
+
+:: Config Windows the good way
+curl %URL_ROOT%/windows.cmd > cmd
 
 pause

@@ -1,5 +1,5 @@
 @ECHO OFF
-echo Creating temp dir for installers...
+echo Installing paint.net plugins...
 SET REMOTE_URL=https://rice.hyblocker.dev
 SET PDN_DIR=%PROGRAMFILES%/paint.net
 
